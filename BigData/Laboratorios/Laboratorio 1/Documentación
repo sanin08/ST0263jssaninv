@@ -1,1 +1,21 @@
-2
+# Titulo
+
+Laboratorio 1 Bigdata
+
+# Autor
+
+Juan Sebastián Sanín Villarreal
+
+# Descripción
+
+Creación de un cluster con todas sus respectivos pasos (esto está resulto en el laboratorio 0) para la gestion de archivos en HUE en HDFS y aS3.
+
+# Diseño
+
+Cluster en AWS(EMR) con un bucket público en S3 de AWS llamado datasetsjssaninv.
+
+# Instalación
+
+* Iniciamos entrando en la URL que nos da el cluster de HUE como se muestra en la imagen 
+
+![](https://i.ibb.co/87T3W14/Inicial.png)
