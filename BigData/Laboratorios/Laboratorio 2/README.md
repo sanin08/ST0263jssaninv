@@ -35,12 +35,12 @@ También se tiene el archivo dataempleados.txt que nos sirve para simular el uso
  
 1. Salario promedio por sector económico.
  
-   `python3 dane-mr.py ../../otros/dataempleados.txt`
+   `python3 dane-mr.py ../../datasets/otros/dataempleados.txt`
 
 2. El salario promedio por Empleado.
 
-    `python3 empleado.py ../../otros/dataempleados.txt`
+    `python3 empleado.py ../../datasets/otros/dataempleados.txt`
  
 3. Número de sector económico por Empleado que ha tenido a lo largo de la estadística.
  
-   `python3 sector.py ../../otros/dataempleados.txt`
+   `python3 sector.py ../../datasets/otros/dataempleados.txt`
