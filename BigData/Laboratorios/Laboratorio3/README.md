@@ -1,6 +1,6 @@
 # Titulo
 
-Laboratorio 2 Bigdata
+Laboratorio 3-1 y 3-2 Bigdata
 
 # Autor
 
@@ -10,7 +10,7 @@ Juan Sebastián Sanín Villarreal
 
 Implementación del Wordcount en Apache Spark de diferentes opciones.
  
- # Resultados
+ # Resultados 3-1
  
 ## 1. Ejecutar el wordcount por linea de comando 'pyspark' INTERACTIVO en EMR con datos en HDFS vía ssh en el nodo master.
 
@@ -49,3 +49,11 @@ Implementación del Wordcount en Apache Spark de diferentes opciones.
 
 **Archivo con replicación, ejecución y entendimiento:** [Datos](https://github.com/sanin08/ST0263jssaninv/blob/main/BigData/Laboratorios/Laboratorio3/Laboratorio3.ipynb) 
   
+  
+# Resultados 3-2
+
+Respuesta en el [Jupyter Notebook](https://github.com/sanin08/ST0263jssaninv/blob/main/BigData/Laboratorios/Laboratorio3/Laboratorio3_2.ipynb)
+
+## Dirección del S3
+
+s3://datasetsjssaninv/jssaninv/df_punto3-(numero de cada pregunta de negocio)
