@@ -43,7 +43,11 @@ Creación de la tabla en Hive:
 
 ## 1.2 Consultas de datos en Zeppelin:
 
-### Comandos de consulta en zeppelin se encuentran en: [COMANDOS SQL](https://github.com/sanin08/ST0263jssaninv/blob/main/BigData/Laboratorios/Laboratorio4/Laboratorio%204%20BigData%20zeppelin.txt)
+### Datos de Notebook y zeppelin:
+
+[Notebook](https://github.com/sanin08/ST0263jssaninv/blob/main/BigData/Laboratorios/Laboratorio4/laboratorio4..ipynb)
+
+[Zeppelin](https://github.com/sanin08/ST0263jssaninv/blob/main/BigData/Laboratorios/Laboratorio4/laboratorio4.zpln)
 
 ### El guardado en S3 se encuentra en: s3://datasetsjssainv/jssaninv/laboratorio4/
 
