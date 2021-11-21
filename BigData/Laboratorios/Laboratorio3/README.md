@@ -47,12 +47,12 @@ Implementación del Wordcount en Apache Spark de diferentes opciones.
 
 ### Datos en el bucket: s3://datasetsjssaninv/datasets/spark/
 
-**Archivo con replicación, ejecución y entendimiento:** [Datos](https://github.com/sanin08/ST0263jssaninv/blob/main/BigData/Laboratorios/Laboratorio3/Laboratorio3.ipynb) 
+**Archivo con replicación, ejecución y entendimiento:** [**DATOS**](https://github.com/sanin08/ST0263jssaninv/blob/main/BigData/Laboratorios/Laboratorio3/Laboratorio3.ipynb) 
   
   
 # Resultados 3-2
 
-Respuesta en el [Jupyter Notebook](https://github.com/sanin08/ST0263jssaninv/blob/main/BigData/Laboratorios/Laboratorio3/Laboratorio3_2.ipynb)
+Respuesta en el [**Jupyter Notebook**](https://github.com/sanin08/ST0263jssaninv/blob/main/BigData/Laboratorios/Laboratorio3/Laboratorio3_2.ipynb)
 
 ## Dirección del S3
 
