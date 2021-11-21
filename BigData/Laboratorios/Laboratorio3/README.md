@@ -43,7 +43,7 @@ Implementación del Wordcount en Apache Spark de diferentes opciones.
 
 # Parte 2
 
-## Replique, ejecute y ENTIENDA el notebook: Data_processing_using_PySpark.ipynb con los datos respectivos. ejecutelo en AWS EMR.
+## Replique, ejecute y entienda el notebook: Data_processing_using_PySpark.ipynb con los datos respectivos. ejecutelo en AWS EMR.
 
 ### Datos en el bucket: s3://datasetsjssaninv/datasets/spark/
 
