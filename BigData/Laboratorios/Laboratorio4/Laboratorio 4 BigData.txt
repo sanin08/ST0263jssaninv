@@ -6,4 +6,4 @@ Pregunta 3: SELECT `fecha de diagnóstico`, count(*) FROM covid1 GROUP BY `fecha
 
 Pregunta 4: SELECT edad, count(*) FROM covid1 GROUP BY edad ORDER BY count(*)
 
-Pregunta 5: Distribución de los estados de los casos registrados por departamento .  SELECT `nombre departamento`, estado, count(*) FROM covid1 GROUP BY `estado`, `nombre departamento` ORDER BY `nombre departamento`   
+Pregunta 5: SELECT `nombre departamento`, estado, count(*) FROM covid1 GROUP BY `estado`, `nombre departamento` ORDER BY `nombre departamento`   
