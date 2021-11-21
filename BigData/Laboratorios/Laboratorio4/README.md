@@ -45,9 +45,9 @@ Creación de la tabla en Hive:
 
 ### Datos de Notebook y zeppelin:
 
-[Notebook](https://github.com/sanin08/ST0263jssaninv/blob/main/BigData/Laboratorios/Laboratorio4/laboratorio4..ipynb)
+[**Notebook**](https://github.com/sanin08/ST0263jssaninv/blob/main/BigData/Laboratorios/Laboratorio4/laboratorio4..ipynb)
 
-[Zeppelin](https://github.com/sanin08/ST0263jssaninv/blob/main/BigData/Laboratorios/Laboratorio4/laboratorio4.zpln)
+[**Zeppelin**](https://github.com/sanin08/ST0263jssaninv/blob/main/BigData/Laboratorios/Laboratorio4/laboratorio4.zpln)
 
 ### El guardado en S3 se encuentra en: s3://datasetsjssainv/jssaninv/laboratorio4/
 
