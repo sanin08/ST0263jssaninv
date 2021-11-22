@@ -12,8 +12,26 @@ Uso SQL en spark usando Hive, jupyter y zeppelin
 
 
 # Respuesta
+## Reto 1 de Hive:
 
-Creación de la tabla en Hive:
+* ¿cómo llenar una tabla con los resultados de un Query?
+
+* Respuesa:
+Creación de la tabla:
+
+![](https://i.ibb.co/G3yHRrB/Reto-Creacion-tabla-frecuencia.png)
+
+* Inserción de los datos: 
+
+![](https://i.ibb.co/ydB16YJ/Reto-Comando-frecuencia-resultado.png)
+
+* Visualización de los datos:
+
+![](https://i.ibb.co/M1BZjjQ/Reto-frecuencia-resultado.png)
+
+
+
+* Creación de la tabla en Hive en S3:
 
 ![](https://i.ibb.co/h2w2yD2/Tabla-Covid.png)
 
