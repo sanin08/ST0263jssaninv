@@ -29,7 +29,7 @@ También se tiene el archivo dataempleados.txt que nos sirve para simular el uso
   
  # Ejecución
  
- Entrar a la carpeta descrita anteriormente la cual sería: ST0263jssaninv/BigData/Laboratorios/Laboratorio 2/Programas/
+ Entrar a la [CARPETA](https://github.com/sanin08/ST0263jssaninv/tree/main/BigData/Laboratorios/Laboratorio%202/Programas) descrita anteriormente la cual sería: ST0263jssaninv/BigData/Laboratorios/Laboratorio 2/Programas/
  
  Luego de estar sobre esta carpeta tendremos que escribir los siguientes comandos para ejecutar los programas (tener en cuenta que tenia problemas con mi ejecución ya que debía hacer mi comando con python más no con python3):
  
